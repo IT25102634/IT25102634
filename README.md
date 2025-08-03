@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chenitha Vindiya</h1>
 <h3 align="center">A passionate IT Student from Sri Lanka | Exploring the Boundless World of Technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chenitha-vindiya&label=Profile%20views&color=000000&style=flat" alt="chenitha-vindiya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=IT25102634&label=Profile%20views&color=000000&style=flat" alt="chenitha-vindiya" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -23,11 +23,11 @@
 </td>
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Chenitha-Vindiya&theme=dark&show_icons=true&count_private=true" width="500px" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=IT25102634&theme=dark&show_icons=true&count_private=true" width="500px" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chenitha-Vindiya&theme=dark&hide_border=false" width="500px" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IT25102634&theme=dark&hide_border=false" width="500px" />
   <br></br>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chenitha-Vindiya&layout=compact&theme=dark&langs_count=8" width="500px" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT25102634&layout=compact&theme=dark&langs_count=8" width="500px" />
 
 </tr>
 </table>
